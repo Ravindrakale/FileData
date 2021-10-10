@@ -13,8 +13,6 @@ namespace FileData
 
             Console.WriteLine(tasks.Task1(args));
             Console.WriteLine(tasks.Task2(args));
-
-
         }
     }
 
