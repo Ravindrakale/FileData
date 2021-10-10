@@ -10,7 +10,7 @@ namespace FileData
         public static void Main(string[] args)
         {
             Tasks tasks = new Tasks(new FileDetails());
-
+            //Print out put
             Console.WriteLine(tasks.Task1(args));
             Console.WriteLine(tasks.Task2(args));
         }
