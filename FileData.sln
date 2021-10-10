@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileData", "FileData\FileDa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdPartyTools", "ThirdPartyTools\ThirdPartyTools.csproj", "{510149C0-2B4D-4F90-BA91-26BD0BBDD0F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileData.Test", "FileData.Test\FileData.Test.csproj", "{9DBBA008-1BF9-47D2-B97C-D6930CA39CA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{510149C0-2B4D-4F90-BA91-26BD0BBDD0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{510149C0-2B4D-4F90-BA91-26BD0BBDD0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{510149C0-2B4D-4F90-BA91-26BD0BBDD0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DBBA008-1BF9-47D2-B97C-D6930CA39CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBBA008-1BF9-47D2-B97C-D6930CA39CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBBA008-1BF9-47D2-B97C-D6930CA39CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBBA008-1BF9-47D2-B97C-D6930CA39CA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
